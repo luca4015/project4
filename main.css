@@ -1,0 +1,27 @@
+.box{
+    height: 500%;
+    padding: 20px;
+    margin: 10px;
+}
+.box1{
+    height: 500%;
+    padding: 20px;
+    margin: 10px;
+}
+.bo{
+    text-align: center;
+}
+.pp{
+    font-weight: 700;
+}
+.box2{
+    background-color: rgb(108, 134, 108);
+    padding: 20px;
+    margin: 15px;
+    text-align: justify;
+}
+/* .sec{
+    background-image: url(beach-1852945_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
